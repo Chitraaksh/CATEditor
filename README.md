@@ -43,3 +43,7 @@ python3 main.py
 --------------------------------------------------------------------------------------
 ## Contributions
 This project is a modified version of The Text Editor from Examples Menu in [Pydroid 3](https://pydroid.app)
+
+---------------------------------------------------------------------------------------
+## NEED MAINTAINER
+# If you like to help and contribute for development or finding bugs, We need a Extra Maintaner - No paycheck, Just Help if you are curious to Know

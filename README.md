@@ -10,7 +10,7 @@ A Tkinter Based Python Code with Syntax highlighting and Many Customization Feat
 git clone https://github.com/Chitraaksh/CATEditor
 cd CATEditor
 ```
-Or Just Download The `main.py`(It is a Standalone file, `__pycache__` will be genrated automatically)
+Or Just Download The `main.py`(It is a Standalone file, `__pycache__` will be generated automatically)
 
 ### 2. Make Sure You Have Python and Dependencies Installed(**If Not Follow**)
 * On Debian/Ubuntu
@@ -46,4 +46,4 @@ This project is a modified version of The Text Editor from Examples Menu in [Pyd
 
 ---------------------------------------------------------------------------------------
 ## NEED MAINTAINER
-### If you like to help and contribute for development or finding bugs, We need a Extra Maintaner - No paycheck, Just Help if you are curious to Know
+### If you like to help and contribute for development or finding bugs, We need a Extra Maintainer - No paycheck, Just Help if you are curious to Know

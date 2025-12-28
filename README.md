@@ -1,5 +1,5 @@
 # CATEditor
-A Tkinter Based Python Code with Syntax highlighting and Many Customization Features
+A Tkinter Based Python Code Editor with Syntax highlighting and Many Customization Features
 
 --------------------------------------------------------------------------
 
